@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'lionKit_Example' do
+  pod 'lionKit', :path => '../'
+
+  target 'lionKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
