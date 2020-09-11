@@ -1,0 +1,16 @@
+PODS:
+  - lionKit (0.1.0)
+
+DEPENDENCIES:
+  - lionKit (from `../`)
+
+EXTERNAL SOURCES:
+  lionKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  lionKit: 69f588754757476a051dc25339951abb5b68f860
+
+PODFILE CHECKSUM: 118a98c03af4773b9dc3fc276cfe1ccb8d4aa603
+
+COCOAPODS: 1.9.3

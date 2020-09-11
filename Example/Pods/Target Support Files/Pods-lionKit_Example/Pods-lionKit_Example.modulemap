@@ -1,0 +1,6 @@
+framework module Pods_lionKit_Example {
+  umbrella header "Pods-lionKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

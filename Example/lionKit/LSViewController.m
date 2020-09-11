@@ -7,6 +7,8 @@
 //
 
 #import "LSViewController.h"
+#import "LSSubObject.h"
+
 
 @interface LSViewController ()
 
@@ -17,7 +19,10 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+    LSSubObject *dd = [[LSSubObject alloc] init];
+    [dd testClass];
+    
+	
 }
 
 - (void)didReceiveMemoryWarning

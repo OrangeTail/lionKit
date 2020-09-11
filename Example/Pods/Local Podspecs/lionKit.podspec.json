@@ -1,0 +1,23 @@
+{
+  "name": "lionKit",
+  "version": "0.1.0",
+  "summary": "lionKit for my cat",
+  "description": "南京的秋天就像冬日里的一杯热水，转眼就凉了…………",
+  "homepage": "https://github.com/OrangeTail/lionKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "OrangeTail": "949267284@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/OrangeTail/lionKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "lionKit/Classes/**/*",
+  "public_header_files": "lionKit/Classes/**/*.h"
+}

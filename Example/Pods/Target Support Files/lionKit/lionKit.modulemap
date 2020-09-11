@@ -1,0 +1,6 @@
+framework module lionKit {
+  umbrella header "lionKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
